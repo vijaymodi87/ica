@@ -1,9 +1,1 @@
-This is my new server.
-
-This is another line in this server.
-
-I have updated the server.
-
-Now, we will put this server in production.
-
-We have successfully deploy server in production.
+Hello World
